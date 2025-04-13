@@ -47,8 +47,8 @@
   </div>
 
   <div class="section">
-    <h2>💾 Download</h2>
-    <p>Check out the game on <a href="#" target="_blank">[your itch.io link]</a></p>
+    <h2>Play Now!!</h2>
+    <p>Check out the game on <a href="#" target="_blank">https://unkzero0.itch.io/the-last-take-off</a></p>
   </div>
 
   <div class="section">
